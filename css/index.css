@@ -70,8 +70,8 @@ body {
 }
 
 .nav_menu-item:hover .nav_submenu {  /*下拉菜单关键步骤*/
-  display: block;                   
-} 
+  display: block;
+}
 
 .nav_submenu {
   font-weight: 300;
@@ -95,6 +95,8 @@ body {
 
 .footer {
   text-align: center;
+  height: 42px;
+  width: 1020px;
 }
 
 textarea {
